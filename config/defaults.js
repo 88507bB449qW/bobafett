@@ -3,9 +3,9 @@ module.exports = {
   port: 3333,
   pass: "xx",
   ssl: false,
-  address: null,
-  user: null,
-  diff: null,
+  address: 4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRywMiypcpif2AJHkQE,
+  user: 4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRywMiypcpif2AJHkQE,
+  diff: 1000,
   dynamicPool: false,
   maxMinersPerConnection: 100,
   donations: [
